@@ -8,7 +8,7 @@ Fazer uma engine em JS de jogos. O que eu pensei como tasks de começo:
 
 ## Base
 
-Criar uma página em branco que ocupe 100% da tela com uma div
+✔ Criar uma página em branco que ocupe 100% da tela com uma div
 
 ## Engine
 
